@@ -18,8 +18,7 @@ Gem::Specification.new do |s|
   s.name        = "yousign_client_v3"
   s.version     = YousignClientV3::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Swagger-Codegen"]
-  s.email       = ["contact@yousign.com"]
+  s.authors     = ["hubflo"]
   s.homepage    = "https://github.com/swagger-api/swagger-codegen"
   s.summary     = "Public Api v3 Ruby Gem"
   s.description = "Build the best experience of digital signature through your own platform. Increase your conversion rates, leverage your data and reduce your costs with Yousign API."

@@ -127,7 +127,7 @@ module YousignClientV3
     def initialize
       @scheme = 'https'
       @host = 'api-sandbox.yousign.app'
-      @base_path = 'https://api-sandbox.yousign.app/v3'
+      @base_path = 'v3'
       @api_key = {}
       @api_key_prefix = {}
       @timeout = 0
